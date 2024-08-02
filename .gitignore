@@ -129,3 +129,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# for petitions_classification
+installed-requirements.txt
+petitions_tokens_w2v
+TextCNN_Best_Validation
+data/
+.vector_cache/
